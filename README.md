@@ -1,0 +1,2 @@
+# Admin-comandss
+Mi script
